@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/choseong-yur/Desktop/INU/Junior/ComputerGraphics/HW1/HW1_202201534",
+      "program": "/Users/choseong-yur/Desktop/INU/Junior/ComputerGraphics/HW1/HW1_202201534/build/Debug/outDebug"
+    }
+  ]
+}

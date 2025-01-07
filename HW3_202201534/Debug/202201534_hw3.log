@@ -1,0 +1,4 @@
+﻿  hw3_3.cpp
+hw3_3.obj : error LNK2019: __imp__glewInit@0_main 함수에서 참조되는 확인할 수 없는 외부 기호
+hw3_3.obj : error LNK2019: __imp__glewExperimental_main 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\minky\OneDrive\바탕 화면\202201534_hw3\Debug\202201534_hw3.exe : fatal error LNK1120: 2개의 확인할 수 없는 외부 참조입니다.
